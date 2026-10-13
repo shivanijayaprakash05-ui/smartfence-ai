@@ -1,0 +1,6 @@
+{
+  "name": "SmartFence AI — Protect Crops, Save Wildlife",
+  "description": "Agricultural IoT & AI crop perimeter monitoring platform with harmless wildlife deterrence, YOLO detection, ultrasonic sensors, and smart water spray controls.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
